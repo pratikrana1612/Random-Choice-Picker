@@ -38,10 +38,15 @@ body{
     color:white;
     padding:1rem;
     border-radius:60px;
+    transition: background-color 0.1s linear;
 }
 .tag
 {
     display:flex;
     align-items: center;
     justify-content: center;
+}
+.colors
+{
+    background-color: #273c75;
 }
