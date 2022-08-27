@@ -10,6 +10,7 @@ body{
     align-items: center;
     height:100vh;
     background-color:#2b88f0;
+    overflow:hidden;
 }
 .main_container
 {
@@ -46,7 +47,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-.colors
+.high-light
 {
     background-color: #273c75;
 }
